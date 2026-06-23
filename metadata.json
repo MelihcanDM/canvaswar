@@ -1,0 +1,6 @@
+{
+  "name": "Canvaswar",
+  "description": "A real-time multiplayer 1000x1000 pixel canvas inspired by r/place, where users can place a single pixel every 5 minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
